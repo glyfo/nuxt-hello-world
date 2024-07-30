@@ -52,14 +52,6 @@ Build the application for production:
 # npm
 npm run build
 
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
 Locally preview production build:
@@ -68,14 +60,16 @@ Locally preview production build:
 # npm
 npm run preview
 
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Deploy on Cloudflare 
+
+Using the Cloudflare Pages to connect github repo 
+
+## Reference 
+
+Check out [Nuxt Examples](https://github.com/nuxt/examples/tree/main/examples)
+
