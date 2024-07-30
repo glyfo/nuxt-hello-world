@@ -2,6 +2,12 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Building a Project 
+
+```bash
+npx nuxi@latest init nuxt-hello-world
+```
+
 ## Setup
 
 Make sure to install the dependencies:
