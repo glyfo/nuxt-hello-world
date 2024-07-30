@@ -12,7 +12,7 @@ const nav = [
     <NuxtLayout class="p-4">
       <NuxtPage />
     </NuxtLayout>
-    <div class="flex items-center gap-4 mt-4">
+    <div class="flex items-center gap-4 mt-4 p-2">
       <UButton color="white" @click="setPageLayout('default')">
         layouts/default.vue
       </UButton>
