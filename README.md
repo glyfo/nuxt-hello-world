@@ -71,5 +71,7 @@ Using the Cloudflare Pages to connect github repo
 
 ## Reference 
 
+Check out [Composable Ecommerce](https://www.storyblok.com/tp/building-composable-commerce-nuxt)
+
 Check out [Nuxt Examples](https://github.com/nuxt/examples/tree/main/examples)
 
